@@ -1,0 +1,11 @@
+structure (StateInfo) {
+  description (State Information)
+  property (capital) {
+    type (Capital)
+    min (Required) max (One)
+  }
+  property (stateGraphic) {
+    type (StateGraphic)
+    min (Required) max (One)
+  }
+}

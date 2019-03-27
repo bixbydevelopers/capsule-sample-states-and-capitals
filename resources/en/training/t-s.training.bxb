@@ -1,0 +1,5 @@
+train (t-s2azw8shp8nfd36od7b48uyv1) {
+  utterance ("[g:FindCapital] What is the capital of (New Mexico)[v:State]")
+  plan (Y2BmUCrISaxML8ovzUvRKy5JLEktdsxLcU4sKNYLBvE889LyGVRwqnHLBDMySxJzGOTwm8TAxMAIxAxAkpEBBKB8AA==)
+  last-modified (1553646631264)
+}

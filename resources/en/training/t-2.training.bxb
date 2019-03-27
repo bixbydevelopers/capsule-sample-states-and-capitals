@@ -1,0 +1,5 @@
+train (t-26iduj695lboturfq9sjxo6ki) {
+  utterance ("[g:FindCapital] What is the capital of (California)[v:State]")
+  plan (Y2BmUCrISaxML8ovzUvRKy5JLEktdsxLcU4sKNYLBvE889LyGVRwqnHLBDMySxJzGOTwm8TAxMAIxAxAkpEBBKB8AA==)
+  last-modified (1553646531534)
+}

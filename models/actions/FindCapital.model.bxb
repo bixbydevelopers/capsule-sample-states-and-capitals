@@ -1,0 +1,11 @@
+action (FindCapital) {
+  description (Find State Capital)
+  type (Search)
+  collect {
+    input (state) {
+      type (State)
+      min (Required) max (One)
+    }
+  }
+  output (StateInfo)
+}

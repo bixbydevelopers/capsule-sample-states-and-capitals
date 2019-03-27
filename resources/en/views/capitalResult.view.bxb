@@ -1,0 +1,16 @@
+result-view {
+  match: StateInfo (stateInfo) {
+  }
+  render {
+    layout {
+      section {
+        content {
+          image {
+            aspect-ratio (1:1)
+            url ("images/#{value(stateInfo.stateGraphic)}")
+          }
+        }
+      }
+    }
+  }
+}

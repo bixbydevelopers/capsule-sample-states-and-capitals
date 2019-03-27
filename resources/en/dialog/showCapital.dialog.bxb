@@ -1,0 +1,7 @@
+dialog (Result) {
+  match: FindCapital (findCapital) {
+    from-input: State (state)
+    to-output: StateInfo (stateInfo)
+  }
+  template("The capital of ${value(state)} is ${value(stateInfo.capital)}")
+}
