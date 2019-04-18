@@ -2,6 +2,10 @@ capsule {
   id (example.statesAndCapitals)
   version (0.1.0)
   format (3)
+  runtime-flags {
+    support-halt-effect-in-computed-inputs
+    modern-prompt-rejection
+  }
   targets {
     target (bixby-mobile-en-US)
   }
