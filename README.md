@@ -7,6 +7,18 @@
 ## Overview
 This capsule is companion code to the [Bixby 101 video tutorial](https://bixby.developer.samsung.com/newsroom/en-us/17/04/2019/Bixby-101-How-to-make-AI-magic). The capsule provides simple  States and Capitals questions and answers. The capsule highlights use the the basic building blocks of a Bixby capsule: Concepts, Actions, Endpoints, Dialog, Views and Training.
 
+This capsule was developed as a companion to the video tutorial. If you are creating your own Q&A type capsule, we suggest you start with the very flexible [Facts Sample Capsule](https://github.com/bixbydevelopers/capsule-sample-fact)
+
+## Tutorial Video
+[![Watch the video](https://img.youtube.com/vi/rSiI3jTdA6k/maxresdefault.jpg)](https://youtu.be/rSiI3jTdA6k)
+
+## How to get started
+
+* Download and install the Bixby Studio IDE from the [Bixby Developer Center](http://bixbydevelopers.com)
+* Download this capsule (zip is the easiest way) from Github. Unzip in your directory of choice
+* Open the Capsule in Bixby Studio
+* Open the simulator and give it a try!
+
 ## Example phrases
 
 ```
