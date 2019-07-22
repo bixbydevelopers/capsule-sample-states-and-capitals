@@ -11,9 +11,7 @@ module.exports.function = function findCapital (state) {
     capital = stateData.capital;
     stateGraphic = stateData.imgURL;
   }
-  
-  console.log ("stateGraphic = " + stateGraphic)
-  
+ 
   return {
     capital: capital,
     stateGraphic: stateGraphic
