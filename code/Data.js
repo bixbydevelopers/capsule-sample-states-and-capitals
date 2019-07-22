@@ -142,32 +142,32 @@ module.exports = {
     {
       state: "new hampshire",
       capital: "Concord",
-      imgURL: "new hampshire.png"
+      imgURL: "new_hampshire.png"
     },
     {
       state: "new jersey",
       capital: "Trenton",
-      imgURL: "new jersey.png"
+      imgURL: "new_jersey.png"
     },
     {
       state: "new mexico",
       capital: "Santa Fe",
-      imgURL: "new mexico.png"
+      imgURL: "new_mexico.png"
     },
     {
       state: "new york",
       capital: "Albany",
-      imgURL: "new york.png"
+      imgURL: "new_york.png"
     },
     {
       state: "north carolina",
       capital: "Raleigh",
-      imgURL: "north carolina.png"
+      imgURL: "north_carolina.png"
     },
     {
       state: "north dakota",
       capital: "Bismarck",
-      imgURL: "north dakota.png"
+      imgURL: "north_dakota.png"
     },
     {
       state: "ohio",
@@ -192,17 +192,17 @@ module.exports = {
     {
       state: "rhode island",
       capital: "Providence",
-      imgURL: "rhode island.png"
+      imgURL: "rhode_island.png"
     },
     {
       state: "south carolina",
       capital: "Columbia",
-      imgURL: "south carolina.png"
+      imgURL: "south_carolina.png"
     },
     {
       state: "south dakota",
       capital: "Pierre",
-      imgURL: "south dakota.png"
+      imgURL: "south_dakota.png"
     },
     {
       state: "tennessee",
@@ -237,7 +237,7 @@ module.exports = {
     {
       state: "west virginia",
       capital: "Charleston",
-      imgURL: "west virginia.png"
+      imgURL: "west_virginia.png"
     },
     {
       state: "wisconsin",
