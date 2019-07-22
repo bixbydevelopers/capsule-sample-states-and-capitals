@@ -1,0 +1,13 @@
+capsule-info {
+  display-name (States and Capitals)
+  dispatch-name ("States and Capitals")
+  developer-name (Viv Labs)
+  icon-asset (/images/state-capitol-icon.png)
+  description ("Sample States and Capitals Capsule")
+  website-url (http://viv,ai)
+  search-keywords {
+    keyword (state)
+    keyword (capitals)
+    keyword (states)
+  }
+}

@@ -1,0 +1,7 @@
+hints {
+  uncategorized {
+    utterance (What is the capital of California)
+    utterance (What is the capital of New Mexico)
+    utterance (What is the capital of New York)
+  }
+}
