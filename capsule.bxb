@@ -3,6 +3,8 @@ capsule {
   version (0.1.0)
   format (3)
   runtime-flags {
+    modern-default-view-behavior
+    no-filtering-with-validation
     support-halt-effect-in-computed-inputs
     modern-prompt-rejection
     concepts-inherit-super-type-features
