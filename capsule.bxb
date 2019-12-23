@@ -2,14 +2,7 @@ capsule {
   id (example.statesAndCapitals)
   version (0.1.0)
   format (3)
-  runtime-flags {
-    use-input-views-for-selection-list-detail
-    modern-default-view-behavior
-    no-filtering-with-validation
-    support-halt-effect-in-computed-inputs
-    modern-prompt-rejection
-    concepts-inherit-super-type-features
-  }
+  runtime-version (2)
   targets {
     target (bixby-mobile-en-US)
   }
