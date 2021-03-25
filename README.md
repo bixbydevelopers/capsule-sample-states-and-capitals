@@ -5,7 +5,7 @@
 </p>
 
 ## Overview
-This capsule is companion code to the [Bixby 101 video tutorial](https://bixby.developer.samsung.com/newsroom/en-us/17/04/2019/Bixby-101-How-to-make-AI-magic). The capsule provides simple  States and Capitals questions and answers. The capsule highlights use the the basic building blocks of a Bixby capsule: Concepts, Actions, Endpoints, Dialog, Views and Training.
+This capsule is companion code to the [Bixby 101 video tutorial](https://bixby.developer.samsung.com/newsroom/en-us/Bixby-101-How-to-make-AI-magic). The capsule provides simple  States and Capitals questions and answers. The capsule highlights use the the basic building blocks of a Bixby capsule: Concepts, Actions, Endpoints, Dialog, Views and Training.
 
 This capsule was developed as a companion to the video tutorial. If you are creating your own Q&A type capsule, we suggest you start with the very flexible [Facts Sample Capsule](https://github.com/bixbydevelopers/capsule-sample-fact)
 
